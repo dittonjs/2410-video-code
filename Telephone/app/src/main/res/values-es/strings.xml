@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Teléfono</string>
+    <string name="call_text">Llamar</string>
+    <string name="clear_text">Limpiar</string>
+</resources>
